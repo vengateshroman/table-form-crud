@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Productname": "test product 1",
+      "OrgPrice": "25",
+      "DiscountPercentage": "5",
+      "DscountPrice": "11.55",
+      "Vendor": "vendor 1"
+    },
+    {
+      "id": 2,
+      "Productname": "bb",
+      "OrgPrice": "2",
+      "DiscountPercentage": "4",
+      "DscountPrice": "10",
+      "Vendor": "ve"
+    },
+    {
+      "Id": "",
+      "Productname": "apple",
+      "OrgPrice": "77",
+      "DiscountPercentage": "12",
+      "DscountPrice": "6",
+      "Vendor": "customer",
+      "id": 3
+    }
+  ]
+}
